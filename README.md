@@ -25,11 +25,16 @@ The MVC pattern is a code pattern that is used to organise the modules of a proj
 
 
 ## What is the Service repository pattern?
+
   ''' bash
   python -m venv venv 
   venv\Scripts\activate
   pip install -e .
   '''
+  ## Section 2 
+  |a col| b col|
+  |-----|------|
+  | row | row |
 
 The Service Repository pattern is designed to keep business logic separate from the data access and it aims to separate the codebase into distinct layers.
 
